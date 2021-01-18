@@ -4,4 +4,4 @@
 
 ## Gameplay
 
-![Alt text](screenshots/gameplay.png?raw=true "Gameplay")
+![Alt text](screenshots/tetris.png?raw=true "Gameplay")
